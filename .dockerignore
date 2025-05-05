@@ -1,0 +1,10 @@
+
+# Ignore virtual environments, IDE files, and local data
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+data/
